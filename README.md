@@ -60,5 +60,5 @@ Most of my projects live on [GitLab](https://gitlab.com/gramia).
   <a href="https://www.linkedin.com/in/graceamia/"><img src="https://img.shields.io/badge/LinkedIn-graceamia-04033A?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn"></a>
   <a href="https://graceyourbrain.com/"><img src="https://img.shields.io/badge/Blog-Grace%20Your%20Brain-04033A?style=for-the-badge&logo=rss&logoColor=white&labelColor=5B4BC4" alt="Blog"></a>
   <a href="https://gitlab.com/gramia"><img src="https://img.shields.io/badge/GitLab-gramia-04033A?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26" alt="GitLab"></a>
-  <a href="https://github.com/GraceAmia"><img src="https://img.shields.io/badge/GitHub-GraceAmia-04033A?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F" alt="GitHub"></a>
+  <a href="https://github.com/amiagrace"><img src="https://img.shields.io/badge/GitHub-GraceAmia-04033A?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F" alt="GitHub"></a>
 </p>
